@@ -12,4 +12,6 @@ OBS: Faça duas listas
 **Teste 1**   
 *Teste 2*  
 [Teste 3](https://wordpress.com/support/markdown-quick-reference/)  
-[Teste 4][1] e [Teste 4.1][2] [1]: https://wordpress.com/support/markdown-quick-reference/ "Title" [2]: https://www2.fiap.com.br/ "Title"
+[Teste 4][1] e [Teste 4.1][2] 
+[1]: https://wordpress.com/support/markdown-quick-reference/ "Title" 
+[2]: https://www2.fiap.com.br/ "Title"
