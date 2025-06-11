@@ -1,5 +1,7 @@
 import random
 
+print("Exercício")
+
 n = int(input("Digite quantos números terá a lista: "))
 lista = []
 
