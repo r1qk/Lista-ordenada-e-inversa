@@ -14,4 +14,10 @@ OBS: Faça duas listas
 [Teste 3](https://wordpress.com/support/markdown-quick-reference/)  
 [Teste 4][1] e [Teste 4.1][2] 
 [1]: https://wordpress.com/support/markdown-quick-reference/ "Title" 
-[2]: https://www2.fiap.com.br/ "Title"
+[2]: https://www2.fiap.com.br/ "Title"  
+
+Some text with [a link][1] and another [link][2].
+
+[1]: https://example.com/ "Title"
+[2]: https://example.org/ "Title"
+
