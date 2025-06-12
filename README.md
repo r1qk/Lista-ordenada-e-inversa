@@ -1,6 +1,8 @@
 # FIAP
 ## Exercícios sobre matrizes e vetores
-### Exercício 6
+### Exercício 6  
+
+Enunciado teste
 
 Escreva um algoritmo que recebe uma lista de nomes e imprime os nomes na ordem inversa a da
 leitura.
