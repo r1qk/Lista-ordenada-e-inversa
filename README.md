@@ -2,7 +2,7 @@
 ## Exercícios sobre matrizes e vetores
 ### Exercício 6  
 
-Enunciado teste
+Enunciado teste 2
 
 Escreva um algoritmo que recebe uma lista de nomes e imprime os nomes na ordem inversa a da
 leitura.
